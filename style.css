@@ -15,6 +15,12 @@ input
 {
     background: grey
 }
+.copy_right_footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;}
 .travel-main-div{
     
     padding-left: 0px;
